@@ -1,0 +1,12 @@
+/*
+Theme Name: Meme Koin - The Ultimate Single-Page WordPress Template for Meme Coin Websites
+Theme URI: https://www.teknoffice.com/
+Author: Teknoffice Technologies Inc.
+Author URI: https://www.teknoffice.com/
+Description: Launch your meme coin website effortlessly with Meme Koin, a sleek and engaging single-page WordPress template crafted specifically for meme coin projects. Designed with all the essential sections your site needs, Meme Koin ensures a seamless experience for visitors and developers alike.
+Tags: meme coin, single-page, custom-background, custom-colors, editor-style, footer-widgets, full-width-template, theme-options
+Version: 1.0.3
+*/
+.widget_footer_menu_widget li a {
+    color: inherit;
+}

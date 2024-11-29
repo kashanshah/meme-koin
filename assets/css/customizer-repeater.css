@@ -1,0 +1,52 @@
+.repeater-items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.repeater-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+}
+
+.repeater-item textarea,
+.repeater-item input[type] {
+    display: block;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.repeater-item-remove {
+    display: inline-block;
+    background: #d9534f;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.repeater-add-item {
+    display: inline-block;
+    margin-top: 10px;
+    background: #0073aa;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.image-preview {
+    display: block;
+    max-width: 100px;
+    margin-top: 10px;
+}
+
+.image-selector {
+    margin-bottom: 10px;
+}
+
+.select-image-button {
+    margin-top: 5px;
+}
